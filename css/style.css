@@ -7,7 +7,7 @@
 }
 
 body {
-     background-image: linear-gradient(to right, black, red);
+     background-image: linear-gradient(to right, black, rgb(201, 47, 47));
     display: flex;
     align-items: center;
     justify-content: center;
